@@ -30,7 +30,7 @@ lib/
 └── main.dart         # Punto de entrada e inicialización de la cámara
 ```
 
-## 🚀 Comenzando
+## Comenzando
 
 ### Prerrequisitos
 
